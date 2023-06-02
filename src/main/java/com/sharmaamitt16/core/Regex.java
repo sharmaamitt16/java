@@ -1,4 +1,4 @@
-package com.sharmaamitt16.basic;
+package com.sharmaamitt16.core;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;

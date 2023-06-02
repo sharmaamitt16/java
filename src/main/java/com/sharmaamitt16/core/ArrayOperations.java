@@ -1,4 +1,4 @@
-package com.sharmaamitt16.basic;
+package com.sharmaamitt16.core;
 
 public class ArrayOperations {
 
